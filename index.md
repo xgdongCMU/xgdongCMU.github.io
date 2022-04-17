@@ -4,7 +4,7 @@ navigation_weight: 1
 
 ---
 
-# <center> Miniature Robotics Laboratory </center>
+![lab log](lab_cover.png)
 
 **The research of Dong Lab will focus on three aspects.**
 * The design, manufacture and control of **miniature soft robots**, and their applications in minimally invasive medicine, biomechanics and microfluidics. 
@@ -25,13 +25,13 @@ navigation_weight: 1
 
 * (April 2022) Our paper titled "Wireless Soft Millirobots for Climbing Three-dimensional Surfaces in Confined Spaces" has been accepted by **Science Advances**!
 
-* (April 2022) We received a pilot grant award from VINSE!
+* (April 2022) We received a pilot grant award from Vanderbilt Institute of Nanoscale Science and Engineering!
 
 * (March 2022) Dr. Dong co-hosted a webinar by Prof. Ryan L. Truby from Northwestern University on ["Designing Robotic Materials from Sensorized Soft and Architected Matter"](https://twitter.com/TheMartlets/status/1498429415042138112).
 
 * (March 2022) Our paper titled "Creating three-dimensional magnetic functional microdevices via molding-integrated direct laser writing" has been accepted by **Nature Communications**!
 
-* (March 2022) Congratulations that our UG lab member Andrew Haworth received a VISE summer fellowship! 
+* (March 2022) Congratulations that our lab member Andrew Haworth received an Undergraduate Summer Fellowship from Vanderbilt Institute for Surgery and Engineering! 
 
 * (Feb. 2022) We are looking for strong candidates to join for the **PhD and MS program** at ME of Vanderbilt. Please see "[Opportunity](./opportunity)" for more details.
 
