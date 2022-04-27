@@ -8,7 +8,7 @@ navigation_weight: 5
 # Teaching
 
 1. **Department of Mechanical Engineering, Vanderbilt University**
-* 2022 Spring, Dynamics ME 2190
+* 2022 Spring, Dynamics ME 2190 (ME core)
 * 2023 Fall, Miniature Robotics 
 
 2. **SimTech, University of Stuttgart, Germany**

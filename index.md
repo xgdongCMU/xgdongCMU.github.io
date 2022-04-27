@@ -19,6 +19,8 @@ navigation_weight: 1
 
 **Group News**
 
+* (April 2022) Dr. Dong hosted the department seminar talk by [Prof. Wei Gao](http://www.gao.caltech.edu/) from Caltech!
+
 * (April 2022) An invited [seminar talk](http://www2.me.gatech.edu/www/calendar/view_seminar.asp?speaker=Xiaoguang%20Dong&startDate=4/15/2022&startTime=2:00%20PM) is given by Dr. Dong on shape-morphable wireless miniature robots in the Department of Mechanical Engineering, Georgia Tech, Atlanta, US.
 
 * (April 2022) An invited talk is given by Dr. Dong in [the workshop "Surgical Robotics: the next generation"](https://sites.google.com/view/ismr2022-next-gen) at the  2022 International Symposium on Medical Robotics, Georgia Tech, Atlanta, US.
@@ -32,6 +34,8 @@ navigation_weight: 1
 * (March 2022) Our paper titled "Creating three-dimensional magnetic functional microdevices via molding-integrated direct laser writing" has been accepted by **Nature Communications**!
 
 * (March 2022) Congratulations that our lab member Andrew Haworth received an Undergraduate Summer Fellowship from Vanderbilt Institute for Surgery and Engineering! 
+
+* (Feb. 2022) Dr. Dong hosted the department seminar talk by [Prof. Giovanni Traverso](http://meche.mit.edu/people/faculty/cgt20@mit.edu) from MIT!
 
 * (Feb. 2022) We are looking for strong candidates to join for the **PhD and MS program** at ME of Vanderbilt. Please see "[Opportunity](./opportunity)" for more details.
 
