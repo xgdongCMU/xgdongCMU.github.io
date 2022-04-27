@@ -2,7 +2,7 @@
 layout: default
 title: Dong Lab
 description: Contact
-navigation_weight: 7
+navigation_weight: 8
 ---
 # Contact information
 

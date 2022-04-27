@@ -2,7 +2,7 @@
 layout: default
 title: Dong Lab
 description: Opportunities
-navigation_weight: 5
+navigation_weight: 7
 ---
 
 # Open Opportunity
