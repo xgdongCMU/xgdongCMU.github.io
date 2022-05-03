@@ -17,11 +17,11 @@ Dr. Xiaoguang Dong got his Ph.D. degree from the Department of Mechanical Engine
 * Two PhD students are joining us from 2022 Fall
 
 ## Undergraduate Students
-* Andrew Haworth (2022.02 - present), VISE Summer Fellow
-* Cameron Thomas (2022.03 - present)
-* Yilan Xu (2022.02 - present)
-* Shreya Shrestha (2022.02 - present)
-* Saksham Sharma (2022.04 - present), Clark Scholar
+* Andrew Haworth (2022.02 - present), Major: ME, VISE Summer Fellow
+* Shreya Shrestha (2022.02 - present), Major: BME
+* Yilan Xu (2022.02 - present), Major: ME
+* Cameron Thomas (2022.03 - present), Major: ME
+* Saksham Sharma (2022.04 - present), Major: ME, Clark Scholar
 
 
 

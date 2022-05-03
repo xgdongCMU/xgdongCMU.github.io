@@ -7,6 +7,7 @@ navigation_weight: 3
 ---
 # Research
 
+
 The research of Dong Lab will focus on three aspects: 
 
 * The design, manufacture and control of **miniature soft robots**, and their applications in minimally invasive medicine, biomechanics and microfluidics. 
@@ -14,8 +15,11 @@ The research of Dong Lab will focus on three aspects:
 * The modeling, design, manufacture and control of **intelligent soft materials and devices** based on mechanics model and machine learning. 
 
 
+
 <img src="magnetic_systems.png" alt="magnetic system" width="800"/> 
 * A magnetic robotic system is consisted of 1) an intelligent magnetic actuation system, such as an electromagnet actuation system or mobile permanent-magnet system, 2) magnetic miniature robots (rigid or soft, single or swarm, tethered or untethered), and 3) a sensing system such as cameras or medical imaging machines.
+
+
 
 ---------
 *********
