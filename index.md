@@ -14,8 +14,6 @@ navigation_weight: 1
 * The modeling, design, manufacture and control of **intelligent soft materials and devices** based on mechanics model and machine learning. 
 
 
-<img src="research_overview.png" alt="research overview" width="900"/> 
-
 
 
 [Learn more](./research)
